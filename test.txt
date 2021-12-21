@@ -1,4 +1,3 @@
 This is FIRST test file to commit.
 
-Trying out commit for the SECOND time.
-
+This is a replaced line.
